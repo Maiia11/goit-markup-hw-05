@@ -561,7 +561,7 @@ margin-bottom: 16px;
     visibility: visible;
     pointer-events: initial;
 }
-.modal{
+.backdrop-modal{
     position: absolute;
     border-radius: 4px;
     background-color: #FCFCFC;

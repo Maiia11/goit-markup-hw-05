@@ -540,7 +540,7 @@ margin-bottom: 16px;
 }
 
 /*Modal window*/
-.backdrop {
+.backdrop{
     position: fixed;
     top: 0;
     left: 0;

@@ -730,10 +730,6 @@ fill: #ffffff;
     opacity: 1;
 }
 
-/*.checkbox:checked + .form-agreement > .form-agreement-checkbox{
-    opacity: 1;
-
-}*/
 .form-agreement-icon{
     fill: #F4F4FD;
 }
